@@ -1,0 +1,27 @@
+.container{
+    position: relative;
+    width: 850px;
+}
+
+.title{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    position: fixed;    
+    top:0;
+}
+
+.members{         
+    list-style: none;
+    color: white;
+    font-size: 20px; 
+    justify-items: center; 
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 100%;
+    margin: 220px 220px;
+    
+}
+

@@ -1,0 +1,37 @@
+.btnRed{   
+    margin-right: 5px;
+    background-color: rgb(212, 7, 7);
+    color: white; 
+    border: 1px solid gray;
+}
+
+.btnRed:hover{
+    cursor: pointer;
+    background-color: rgb(248, 7, 7);
+}
+
+.btnGreen{    
+    margin-left: 5px;
+    background-color: darkgreen;
+    color: white;    
+    border: 1px solid gray;
+}
+
+.btnGreen:hover{
+    cursor: pointer;
+    background-color: rgb(43, 226, 43);
+}
+
+.counterContainer{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+      
+}
+
+.steps{
+    padding: 8px;
+    font-size: 15px;
+    color: gray;
+}
+
